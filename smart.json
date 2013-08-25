@@ -1,0 +1,8 @@
+{
+  "name": "jquery-pageslide",
+  "description": "jQuery Javascript plugin which slides a webpage over to reveal an additional interaction pane. http://srobbin.com/blog/jquery-pageslide/",
+  "homepage": "https://github.com/gist-/meteor-jquery-pageslide",
+  "author": "tsc.data.action <tsc.data.action@gmail.com> ()",
+  "version": "2.0",
+  "git": "https://github.com/gist-/meteor-jquery-pageslide.git"
+}
