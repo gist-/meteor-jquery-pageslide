@@ -1,0 +1,3 @@
+[submodule "lib/jquery-pageslide"]
+	path = lib/jquery-pageslide
+	url = https://github.com/srobbin/jquery-pageslide.git
